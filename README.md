@@ -1,6 +1,6 @@
-# scrollablescafolled
+# scrollablescaffold
 
-scrollable Scafolld 
+scrollable Scaffold 
 
 ## Getting Started
 
